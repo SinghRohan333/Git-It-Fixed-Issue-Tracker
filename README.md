@@ -84,9 +84,9 @@ The result is a fast, lightweight, and visually appealing issue-tracking interfa
 | :-----------------------------: | :--------------------------------: |
 | ![Login Page](assets/login.png) | ![Dashboard](assets/dashboard.png) |
 
-|                New Issue Modal                 |             Issue Detail View             |
-| :--------------------------------------------: | :---------------------------------------: |
-| ![New Issue Modal](assets/new_issue_modal.png) | ![Issue Detail](assets/issue_details.png) |
+|             New Issue Modal             |             Issue Detail View             |
+| :-------------------------------------: | :---------------------------------------: |
+| ![New Issue Modal](assets/newIssue.png) | ![Issue Detail](assets/issue_details.png) |
 
 </div>
 
