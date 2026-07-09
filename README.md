@@ -1,3 +1,8 @@
+<!-- HEADER IMAGE -->
+<p align="center">
+  <img src="./assests/header_img.svg" alt="Git It Fix banner" width="100%" />
+</p>
+
 <div align="center">
 
 # 🐙 Git It Fixed — GitHub Issues Tracker
@@ -39,7 +44,7 @@
 
 The result is a fast, lightweight, and visually appealing issue-tracking interface that feels close to the real thing. ✨
 
-> 💡 This project uses a mock data source to simulate issue data. Replace `<YOUR_MOCK_API_ENDPOINT>` in `scripts.js` with your own endpoint if you'd like to connect it to live data.
+> 💡 This project uses a mock data source to simulate issue data. [Mock Data](https://phi-lab-server.vercel.app/api/v1/lab/issues)
 
 ---
 
@@ -64,9 +69,9 @@ The result is a fast, lightweight, and visually appealing issue-tracking interfa
 
 **Demo Credentials:**
 
-| Field | Value |
-|---|---|
-| Username | `admin` |
+| Field    | Value      |
+| -------- | ---------- |
+| Username | `admin`    |
 | Password | `admin123` |
 
 ---
@@ -75,12 +80,12 @@ The result is a fast, lightweight, and visually appealing issue-tracking interfa
 
 <div align="center">
 
-| Login Page | Dashboard |
-|:---:|:---:|
+|      Login Page       |       Dashboard       |
+| :-------------------: | :-------------------: |
 | _Add screenshot here_ | _Add screenshot here_ |
 
-| New Issue Modal | Issue Detail View |
-|:---:|:---:|
+|    New Issue Modal    |   Issue Detail View   |
+| :-------------------: | :-------------------: |
 | _Add screenshot here_ | _Add screenshot here_ |
 
 </div>
@@ -91,14 +96,14 @@ The result is a fast, lightweight, and visually appealing issue-tracking interfa
 
 ## 🛠️ Tech Stack
 
-| Technology | Purpose |
-|---|---|
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) | Page structure & markup |
-| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) | Custom styling |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | App logic, DOM manipulation, interactivity |
-| ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) | Utility-first responsive styling |
-| ![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A0EF8?logo=daisyui&logoColor=white) | Prebuilt Tailwind component library |
-| ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white) | Hosting & deployment |
+| Technology                                                                                           | Purpose                                    |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------ |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)                      | Page structure & markup                    |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)                         | Custom styling                             |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)       | App logic, DOM manipulation, interactivity |
+| ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) | Utility-first responsive styling           |
+| ![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A0EF8?logo=daisyui&logoColor=white)                | Prebuilt Tailwind component library        |
+| ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white)                | Hosting & deployment                       |
 
 ---
 
