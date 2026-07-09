@@ -1,6 +1,6 @@
 <!-- HEADER IMAGE -->
 <p align="center">
-  <img src="./assests/header_img.svg" alt="Git It Fix banner" width="100%" />
+  <img src="./assets/header_img.svg" alt="Git It Fix banner" width="100%" />
 </p>
 
 <div align="center">
