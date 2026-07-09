@@ -80,13 +80,13 @@ The result is a fast, lightweight, and visually appealing issue-tracking interfa
 
 <div align="center">
 
-|      Login Page       |       Dashboard       |
-| :-------------------: | :-------------------: |
-| _Add screenshot here_ | _Add screenshot here_ |
+|           Login Page            |             Dashboard              |
+| :-----------------------------: | :--------------------------------: |
+| ![Login Page](assets/login.png) | ![Dashboard](assets/dashboard.png) |
 
-|    New Issue Modal    |   Issue Detail View   |
-| :-------------------: | :-------------------: |
-| _Add screenshot here_ | _Add screenshot here_ |
+|                New Issue Modal                 |             Issue Detail View             |
+| :--------------------------------------------: | :---------------------------------------: |
+| ![New Issue Modal](assets/new-Issue_modal.png) | ![Issue Detail](assets/issue_details.png) |
 
 </div>
 
