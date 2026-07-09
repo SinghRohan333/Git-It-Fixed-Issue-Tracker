@@ -90,8 +90,6 @@ The result is a fast, lightweight, and visually appealing issue-tracking interfa
 
 </div>
 
-> 📌 Replace the placeholders above with actual screenshots or a demo GIF of the app in action — this section makes a huge visual impact on your README!
-
 ---
 
 ## 🛠️ Tech Stack
@@ -166,13 +164,19 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 ---
 
-## 👤 Author
+# 👨‍💻 Author
 
-**Rohan Singh**
+Rohan Singh
 
-- GitHub: [@SinghRohan333](https://github.com/SinghRohan333)
-- LinkedIn: _add your link here_
-- Portfolio: _add your link here_
+If you'd like to connect, collaborate, or provide feedback, feel free to reach out:
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/singhrohan333/
+- 💻 **GitHub:** https://github.com/SinghRohan333
+- 📧 **Email:** rohan.singh.syl@gmail.com
+
+I'm always open to discussions, suggestions, and learning opportunities in web development.
+
+---
 
 <div align="center">
 
