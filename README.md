@@ -86,7 +86,7 @@ The result is a fast, lightweight, and visually appealing issue-tracking interfa
 
 |                New Issue Modal                 |             Issue Detail View             |
 | :--------------------------------------------: | :---------------------------------------: |
-| ![New Issue Modal](assets/new-issue_modal.png) | ![Issue Detail](assets/issue_details.png) |
+| ![New Issue Modal](assets/new_issue_modal.png) | ![Issue Detail](assets/issue_details.png) |
 
 </div>
 
